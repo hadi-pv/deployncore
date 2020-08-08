@@ -1,0 +1,38 @@
+
+.top{
+    background-color: black;
+}
+.footer{
+    background-color: lightgrey;
+    padding-top: 2%;
+}
+.navbar{
+    background-color: black;
+}
+.home{
+    background-image: linear-gradient(to bottom,black,grey);
+    height: 100vh;
+}
+#facebook_button > i{color: rgb(22, 160, 132);padding: 2px;}
+#facebook_button > i:hover{color: #141c5a;}
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:black;
+    height: 1px;
+  }
+
+
+  /*main button*/
+.main_button{
+    color: whitesmoke;
+    background-color: transparent;
+    font-weight: bolder;
+}
+.main_button:hover{
+    color: black;
+    background-color: whitesmoke;
+}
+  /*---*/
